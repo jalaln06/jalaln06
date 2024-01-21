@@ -4,6 +4,7 @@
 ## Education 
 
 Bachelor's degree in information systems and technology at ITMO University
+
 Currently Master's student in AI
 
 ## Scientific interests
