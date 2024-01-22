@@ -17,9 +17,13 @@ Currently Master's student in AI
 ## Skills
 
 Back-end development in Kotlin/Java and Javascript
+
 ML/DS in Python (Tensorflow, Pandas, Numpy, Pytorch)
+
 Quantum Computing (Qiskit)
+
 Quantum Machine Learning
+
 Reinforcement Learning
 
 ## Intro
