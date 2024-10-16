@@ -28,15 +28,7 @@ Reinforcement Learning
 ## Intro
 Hey! 
 
-I'm interested in Quantum Computing(especially QML), LLMs, and Machine Learning on Graphs.
-
-I'm currently working on research in [Using KG with LLMS](https://github.com/ElkinStas/KG_and_LLM)
-
-I'm in the process of learning more about Quantum Computation. 
-
-I'd love to participate in any projects working with QC and QML.
-
-
+I'm interested in Tensor Networks, LLMs, and Computational Neuroscience.
 
 I'm always open to collaborations. You can reach me by email: jalal0601@proton.me 
 
