@@ -10,8 +10,7 @@ Currently Master's student in AI
 ## Scientific interests
 - Quantum Computation
 - Quantum Machine Learning
-- Graph Machine learning
-- Knowledge Graphs
+- Computational Neuroscience
 - LLMs
   
 ## Skills
